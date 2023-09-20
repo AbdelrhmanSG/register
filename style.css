@@ -1,0 +1,73 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background: url(c2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+	font-size: 300%;
+	color: #FFEADD;
+}
+form {
+	color: #FFEADD;
+}
+a{
+	color: #FFEADD;
+}
+.forma2 {
+	cursor: pointer;
+}
+.forma{
+	font-size: 110%;
+	border-radius: 10px;
+}
+.forma:hover {
+     font-size: 120%;
+     transition-duration: 0.5s;
+     cursor: text;
+ }
+ .pass {
+	color: white;
+	font-size: 110%;
+	background-color:transparent;
+	background-repeat:no-repeat;
+    border: 2px solid #FA7268;
+    border-radius: 12px;
+    padding: 5px 10px;
+    transition-duration: 0.4s;
+}
+.pass:hover {
+	color: #001220;
+	transition-duration: 0.4s;
+	transform: scale(1.2);
+	background-color: #FA7268;
+	background-repeat:no-repeat;
+    border: 2px solid #FA7268;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.omg {
+	color: white;
+	font-size: 110%;
+	background-color:transparent;
+	background-repeat:no-repeat;
+    border: 2px solid #001220;
+    border-radius: 12px;
+    padding: 5px 10px;
+    transition-duration: 0.4s;
+}
+.omg:hover {
+	color: #FA7268;
+	transition-duration: 0.4s;
+	transform: scale(1.2);
+	background-color: #001220;
+	background-repeat:no-repeat;
+    border: 2px solid #FA7268;
+    border-radius: 12px;
+    cursor: pointer;
+}
